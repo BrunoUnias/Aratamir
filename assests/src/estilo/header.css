@@ -1,12 +1,16 @@
 header {
+    width: 80%;
+    padding: 40px 2px;
+    background:#8FBC8B;
+    margin: 90px 96px;
     
 }
 
 .cabecalho {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: center;
     padding-left: 16px;
     padding-top: 16px;
     color: white;
@@ -22,6 +26,10 @@ header {
 .cabecalho h3 {
     font-size: 21px;
     font-weight: 400;
+}
+
+li {
+    
 }
 
 .lista {

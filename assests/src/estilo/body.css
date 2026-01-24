@@ -1,6 +1,13 @@
 body {
-    background: linear-gradient( #ACE1AF, #006A4E ,#50C878);
+    width: 100%;
     min-height: 100hv;
-    background-repeat: no-repeat;
+    background: #49796B;
+
 }
 
+div{
+    margin: 0;
+    padding: 0;
+}
+
+background: linear-gradient( #006A4E,  #50C878, #3E8EDE, #003153);
