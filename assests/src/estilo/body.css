@@ -10,4 +10,12 @@ div{
     padding: 0;
 }
 
+.container {
+    width: 80%;
+    height: 100vh;
+    margin: 90px 136px;
+    padding-left: 15px;
+    
+}
+
 background: linear-gradient( #006A4E,  #50C878, #3E8EDE, #003153);
