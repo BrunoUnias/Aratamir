@@ -1,8 +1,10 @@
 header {
-    width: 80%;
-    padding: 40px 2px;
-    background:#8FBC8B;
-    margin: 90px 96px;
+    background-image: url(../imagem/closeup-cute-young-caucasian-brunette-woman-smiles-with-her-teeth-closing-eyes-purple-background-lifestyle-different-emotions-leisure-concept.jpg)  ;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-bottom: 40px;
     
 }
 
@@ -23,25 +25,16 @@ header {
 
 }
 
-.cabecalho h3 {
-    font-size: 21px;
+.cabecalho h4 {
+    font-size: 18px;
     font-weight: 400;
 }
 
-li {
-    
-}
-
-.lista {
+.row {
     display: flex;
-    padding-left: 12px;
-
-}
-
-.lista-secundaria {
-    display: flex;
-    padding-left: 12px;
-    padding-top: 8px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 
 }
 
